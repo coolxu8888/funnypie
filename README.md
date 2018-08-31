@@ -1,3 +1,3 @@
 # funnypie
-make everything posible
-add but do not delete
+Make everything posible.
+Add but do not delete.
